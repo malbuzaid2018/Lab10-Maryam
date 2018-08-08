@@ -7,5 +7,6 @@ public class CountryCodes {
   static final String KG = "Kyrgyzstan";
   static final String CN = "China";
   static final String VN = "Vietnam";
+  static final String LA = "Laos";
 	
 }
